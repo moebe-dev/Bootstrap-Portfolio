@@ -1,0 +1,63 @@
+h4 {
+  color: lightskyblue;
+  padding-bottom: 1em;
+}
+
+.navbar-full-height {
+  padding: 0;
+}
+
+.text {
+  background: lightskyblue;
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  left: 0%;
+}
+
+.btn {
+  background: lightskyblue;
+  background-color: lightskyblue;
+  color: white;
+  padding: 0.5em 1em;
+}
+.meel {
+  background-color: black;
+}
+
+.meel2 {
+  background-color: black;
+}
+
+.meel3 {
+  background-color: black;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+h3 {
+  background: lightskyblue;
+  color: white;
+  padding: 1em 2em;
+  display: flex;
+}
+
+.border-width {
+  border-width: 0.3em !important;
+  border-color: lightskyblue !important;
+}
+
+.image-card {
+  margin: 1em;
+}
+
+.navbar-full-height .navbar-brand {
+  margin: 0;
+  line-height: 65px;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: black;
+}
